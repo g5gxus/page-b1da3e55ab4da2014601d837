@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ef070b0678f151611464b9ea",
+  "owner": "g5gxus",
+  "repo": "page-b1da3e55ab4da2014601d837",
+  "title": "隔壁西站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b1da3e55ab4da2014601d837",
+      "a": "隔壁西站",
+      "b": "2027最新官网",
+      "entity": "隔壁西站",
+      "brand": "隔壁西站",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "194fc332a742d0d4bee7725c746178bddc94b559016ffed6203b9932854afa0d",
+      "content": {
+        "primary_entity": "隔壁西站",
+        "keyword1": "隔壁西站",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，连上隔壁西站，让每一次跨境访问更从容。",
+          "AI_CLOSING_TITLE": "从套餐到连接，一步到位",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案：基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB 流量、5 台设备并含 IPLC 专线优化；团队版每月 1000GB 流量、20 台设备与专属客户经理。按年付可享基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合不同设备数量与流量需求的使用场景。",
+          "AI_FEATURES_INTRO": "围绕流量档位、设备数量与订阅周期展开，方便对照选型。",
+          "AI_FEATURES_TITLE": "挑选适合的加速方案",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，支持 3 台设备，适合轻量日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB，5 台设备在线，含 IPLC 专线游戏优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB，20 台设备，配专属客户经理服务。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "性能进阶",
+          "AI_FEATURE_TITLE_3": "多设备协作",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步衔接清晰。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "隔壁西站为跨境访问提供多种流量套餐，覆盖个人到团队场景。基础版适合轻量使用，旗舰版兼顾速度与设备数量，团队版面向多设备协作。按年付价格更实惠，可按需选择客户端并配置订阅。",
+          "AI_HERO_SUBTITLE": "跨境加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按年付更划算",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版 100GB/3 设备，旗舰版 300GB/5 设备，团队版 1000GB/20 设备，按年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和设备数量，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所选套餐的流量额度、设备上限与订阅周期是否符合使用预期。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅信息，按客户端文档完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端配置订阅",
+          "AI_VISUAL_TITLE": "隔壁西站加速套餐",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻量使用，旗舰版适合多设备与流媒体需求，团队版面向小团队高流量场景。先估算每月流量和同时在线设备数，再对照套餐权益选择。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出限制时，多出的设备会无法同时连接，可升级套餐解决。",
+          "AI_FAQ_ANSWER_3": "在客户端中找到订阅导入入口，粘贴订阅地址后更新即可。不同客户端菜单名称略有差异，可参考客户端自带文档操作。",
+          "AI_FAQ_ANSWER_4": "按年付比按月付更划算：基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。如果确定长期使用，年付能省下数月费用。",
+          "AI_FAQ_ANSWER_5": "在套餐列表里比较流量、设备数、线路类型与价格。基础版用普通节点池，旗舰版有 IPLC 专线和流媒体解锁，团队版带 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐周期。",
+          "AI_FAQ_QUESTION_1": "怎么判断自己适合哪个套餐？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持的设备数量是多少？",
+          "AI_FAQ_QUESTION_3": "订阅地址在客户端里怎么配置？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "套餐里的线路类型有什么不同？",
+          "AI_FAQ_TITLE": "套餐与配置常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dzkgp.cn",
+    "host": "dzkgp.cn"
+  },
+  "file_hashes": {
+    "index.html": "773e98a10d5119a6b9755a6e7d189496bb7b28807a0ac1601249cac2505d45c6",
+    "sitemap.xml": "56e31a276d73639a256d59974ea73aa351f693bec32f2113147b0e7b9b65a567",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "304accf1b9c711f53f9859206d34dbecb5dbe3cc3e25a24ff20a23e0fa061a6e",
+    "robots.txt": "ada553f883407fa9bd8851c2fb49d0e9f8fdf4ff566462c25aa13a9a1f1d6c98",
+    "ecc07c2f1c454d45cf90e51abcc3830c.txt": "7a32ee025b0dc5ff3ae7df8a593a702865f5b3f8e67cfbc3ee78adf2eceba7e4"
+  },
+  "revision": "f154a85f299fbf751fe9956dafbb69dc2529b22d0f26fafd911eee9c286fd742"
+}
